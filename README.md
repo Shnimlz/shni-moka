@@ -36,7 +36,7 @@ main();
 > [!WARNING]
 > Estos metodos son de la version 1.0.10
 
-### Method
+### Method GET
 
-- sip [getSip()]
-- wave [getWave()]
+- sip
+- wave
