@@ -1,0 +1,21 @@
+{
+  "name": "@shni/moka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "gifs",
+    "moka",
+    "anime",
+    "discordjs",
+    "discord",
+    "reactions"
+  ],
+  "author": "shni",
+  "license": "CC-BY-ND-4.0",
+  "description": "@shni/moka te permite obtener gifs de anime y reacciones para varios propósitos.",
+  "repository": {},
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
