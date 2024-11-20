@@ -12,5 +12,9 @@ Comandos como reacciones entre otras variantes.
 npm install @shni/moka
 ```
 
+<<<<<<< HEAD
 ![Imgur](https://imgur.com/Xb4U0Ij)
 a
+=======
+[Image](https://imgur.com/Xb4U0Ij)
+>>>>>>> d8ac689 (a)
