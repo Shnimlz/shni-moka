@@ -1,8 +1,12 @@
 {
   "name": "@shni/moka",
-  "version": "1.0.1",
-  "main": "index.js",
-  "scripts": {},
+  "version": "1.0.10",
+  "main": "dist/moka.js",
+  "types": "dist/moka.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
   "keywords": [
     "gifs",
     "moka",
@@ -24,6 +28,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "dist",
+    "src"
+  ],
   "devDependencies": {
     "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.10",

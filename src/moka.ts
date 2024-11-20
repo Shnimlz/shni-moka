@@ -1,4 +1,4 @@
-class MokaAPI {
+export class MokaAPI {
   /**
    * The base URL for the API endpoint used to fetch reaction data.
    * This URL points to the version 1 of the reacts API on the amayomoka.com domain.
@@ -25,7 +25,8 @@ class MokaAPI {
       );
     }
 
-    return response.url;
+    const data = await response.json();
+    return data.url;
   }
 
   /**
@@ -45,5 +46,5 @@ class MokaAPI {
   }
 }
 
-// Exportamos la clase para su uso
+// Mantenemos la exportación por defecto para compatibilidad
 export default MokaAPI;
