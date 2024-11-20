@@ -6,10 +6,29 @@
 Este proyecto es para uso de bots de discord
 Comandos como reacciones entre otras variantes.
 
-### Install and Usage
+### Install
 
 ```
 npm install @shni/moka
 ```
 
-![Imgur](https://i.imgur.com/Xb4U0Ij.png)
+### Usage
+
+La dependecia fue creada en ts pero puede ser compilada en js pero requieres tener activado los "imports".
+
+```ts
+import MokaAPI from "@shni/moka";
+
+async function main() {
+  const moka = new MokaAPI();
+
+  try {
+    const sipGif = await moka.getWave();
+    console.log(sipGif);
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+
+main();
+```
