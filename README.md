@@ -11,3 +11,5 @@ Comandos como reacciones entre otras variantes.
 ```
 npm install @shni/moka
 ```
+
+[Imgur](https://imgur.com/Xb4U0Ij)
