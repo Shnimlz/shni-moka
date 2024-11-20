@@ -14,7 +14,7 @@ npm install @shni/moka
 
 ### Usage
 
-La dependecia fue creada en ts pero puede ser compilada en js pero requieres tener activado los "imports".
+La dependecia fue creada en ts pero puede ser compilada en js, pero requieres tener activado los "imports".
 
 ```ts
 import MokaAPI from "@shni/moka";
@@ -32,3 +32,11 @@ async function main() {
 
 main();
 ```
+
+> ![NOTE]
+> Estos metodos son de la version 1.0.10
+
+### Method
+
+- sip [getSip()]
+- wave [getWave()]
