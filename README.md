@@ -1,6 +1,9 @@
 > [!IMPORTANT]
 > Esta dependecia sigue en testeo, puede que haya varios errores!
 
+> ![NOTE]
+> Estos metodos son de la version 1.0.10
+
 # Moka API
 
 Este proyecto es para uso de bots de discord
@@ -32,9 +35,6 @@ async function main() {
 
 main();
 ```
-
-> ![NOTE]
-> Estos metodos son de la version 1.0.10
 
 ### Method
 
