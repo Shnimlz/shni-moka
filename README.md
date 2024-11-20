@@ -6,7 +6,7 @@
 Este proyecto es para uso de bots de discord
 Comandos como reacciones entre otras variantes.
 
-# Install and Usage
+### Install and Usage
 
 ```
 npm install @shni/moka
