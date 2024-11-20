@@ -8,7 +8,7 @@ Comandos como reacciones entre otras variantes.
 
 ### Install
 
-```
+```bash
 npm install @shni/moka
 ```
 

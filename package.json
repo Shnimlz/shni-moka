@@ -1,6 +1,6 @@
 {
   "name": "@shni/moka",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "main": "dist/moka.js",
   "types": "dist/moka.d.ts",
   "scripts": {
