@@ -14,8 +14,21 @@
   "author": "shni",
   "license": "CC-BY-ND-4.0",
   "description": "@shni/moka te permite obtener gifs de anime y reacciones para varios propósitos.",
-  "repository": {},
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Shnimlz/shni-moka"
+  },
   "engines": {
     "node": ">=22.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/chai": "^5.0.1",
+    "@types/mocha": "^10.0.10",
+    "chai": "^5.1.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
   }
 }

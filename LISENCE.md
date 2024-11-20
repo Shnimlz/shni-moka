@@ -1,4 +1,4 @@
-# mokagifs
+# @shni/moka
 
 ## Licencia
 
