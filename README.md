@@ -12,4 +12,4 @@ Comandos como reacciones entre otras variantes.
 npm install @shni/moka
 ```
 
-![Imgur](https://imgur.com/Xb4U0Ij)
+![Imgur](https://i.imgur.com/Xb4U0Ij.png)
