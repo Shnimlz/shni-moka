@@ -6,4 +6,5 @@ build/
 *.log
 *.tmp
 .idea/
-.vscode/
+.vscode
+tsconfig.json
