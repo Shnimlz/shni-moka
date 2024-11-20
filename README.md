@@ -13,8 +13,12 @@ npm install @shni/moka
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Imgur](https://imgur.com/Xb4U0Ij)
 a
 =======
 [Image](https://imgur.com/Xb4U0Ij)
 >>>>>>> d8ac689 (a)
+=======
+[Image](https://imgur.com/Xb4U0Ij)
+>>>>>>> bffea18 (a)
