@@ -1,6 +1,10 @@
 > [!IMPORTANT]
 > Esta dependecia sigue en testeo, puede que haya varios errores!
 
+> [!NOTE]
+> Si quieres apoyar subiendo mas reacciones puedes unirte a nuestro discord
+> https://discord.gg/kJYFTSjrHB
+
 # Moka API
 
 Este proyecto es para uso de bots de discord
