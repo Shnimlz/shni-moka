@@ -34,9 +34,76 @@ main();
 ```
 
 > [!WARNING]
-> Estos metodos son de la version 1.0.10
+> Estos metodos son de la version 1.1, no todos los metodos estan disponibles.
 
 ### Method GET
 
 - sip
 - wave
+- airkiss
+- angrystare
+- bite
+- bleh
+- blush
+- brofist
+- celebrate
+- cheers
+- clap
+- confused
+- cool
+- cry
+- cuddle
+- dance
+- drool
+- evillaugh
+- facepalm
+- handhold
+- happy
+- headbang
+- hug
+- huh
+- kiss
+- laugh
+- lick
+- love
+- mad
+- nervous
+- no
+- nom
+- nosebleed
+- nuzzle
+- nyah
+- pat
+- peek
+- pinch
+- poke
+- pout
+- punch
+- roll
+- run
+- sad
+- scared
+- shout
+- shrug
+- shy
+- sigh
+- slap
+- sleep
+- slowclap
+- smack
+- smile
+- smug
+- sneeze
+- sorry
+- stare
+- stop
+- surprised
+- sweat
+- thumbsup
+- tickle
+- tired
+- wink
+- woah
+- yawn
+- yay
+- yes
